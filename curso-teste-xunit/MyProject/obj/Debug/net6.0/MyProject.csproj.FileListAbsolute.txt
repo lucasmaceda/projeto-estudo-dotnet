@@ -1,0 +1,12 @@
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\bin\Debug\net6.0\MyProject.deps.json
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\bin\Debug\net6.0\MyProject.dll
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\bin\Debug\net6.0\MyProject.pdb
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.csproj.AssemblyReference.cache
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.dll
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\refint\MyProject.dll
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\MyProject.pdb
+d:\projetos\projeto-estudo-dotnet\MyTestProject\MyProject\obj\Debug\net6.0\ref\MyProject.dll
